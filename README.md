@@ -87,15 +87,6 @@
 
 ---
 
-## ✨ Fun Web Dev Facts
-
-- 🧠 The best websites are those that seem so intuitive that users don't notice the design.
-- 💻 It takes about 50 milliseconds for users to form an opinion about your website.
-- 🔍 Responsive design isn't just nice to have—it's essential with over 50% of web traffic now coming from mobile devices.
-- 📋 Clean code isn't written on the first try. It's rewritten and refactored multiple times.
-
----
-
 ## 📚 Learning Goals 2025
 
 - 🔧 Mastering React Server Components and Next.js
