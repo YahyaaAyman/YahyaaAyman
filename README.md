@@ -1,6 +1,6 @@
 <h1 align="center">Hey there 👋, I'm <span style="color:#f39c12;">Yahya Ayman</span></h1>
 <h3 align="center">
-  💻 <b>Full-Stack Web Developer</b> | 🚀 Frontend Enthusiast | 📍 Cairo, Egypt 🇪🇬
+  💻 <b>Frontend-focused Web Developer</b> | 🚀 JavaScript Enthusiast | 📍 Cairo, Egypt 🇪🇬
 </h3>
 
 <p align="center">
@@ -11,7 +11,8 @@
 
 ## 🌟 About Me
 
-- 🔭 I'm currently seeking a role as a **Full-Stack Web Developer**
+- 🎓 IT student at **October Technological University**
+- 🔭 Currently seeking a role as a **Frontend-Focused Web Developer**
 - 💻 Skilled in **Frontend & Backend Development**
 - 💡 Tools: React, Node.js, Express, TypeScript, Bootstrap, PHP, SQL, MongoDB
 - 📍 Based in: Cairo, Egypt 🇪🇬
@@ -54,7 +55,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YahyaaAyman&show_icons=true&theme=tokyonight&count_private=true&custom_title=Ziad%20Yehia's%20GitHub%20Stats" height="220" />
+      <img src="https://github-readme-stats.vercel.app/api?username=YahyaaAyman&show_icons=true&theme=tokyonight&count_private=true&custom_title=Yahya%20Ayman's%20GitHub%20Stats" height="220" />
     </td>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaaAyman&theme=tokyonight&hide_border=false" height="220" />
@@ -67,7 +68,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaaAyman&theme=tokyo-night&area=true&custom_title=Ziad%20Yehia's%20Activity%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaaAyman&theme=tokyo-night&area=true&custom_title=Yahya%20Ayman's%20Activity%20Graph" />
 </p>
 
 ---
@@ -77,7 +78,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YahyaaAyman&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
-
 
 ---
 
@@ -107,5 +107,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZiadYehia&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=YahyaaAyman&style=flat-square&color=blue" alt="Profile views" />
 </p>
