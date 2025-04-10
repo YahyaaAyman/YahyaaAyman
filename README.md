@@ -50,23 +50,6 @@
 
 ---
 
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YahyaaAyman&theme=tokyo-night&area=true&custom_title=Yahya%20Ayman's%20Activity%20Graph" />
-</p>
-
----
-
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YahyaaAyman&theme=onedark&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 🎓 Certifications
 
 - 🏆 **DEPI - React Front-End Web Developer** *(Ongoing)*
