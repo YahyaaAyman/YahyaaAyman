@@ -50,20 +50,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=YahyaaAyman&show_icons=true&theme=tokyonight&count_private=true&custom_title=Yahya%20Ayman's%20GitHub%20Stats" height="220" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YahyaaAyman&theme=tokyonight&hide_border=false" height="220" />
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📈 Activity Graph
 
@@ -85,17 +71,6 @@
 
 - 🏆 **DEPI - React Front-End Web Developer** *(Ongoing)*
 
----
-
-## 📚 Learning Goals 2025
-
-- 🔧 Mastering React Server Components and Next.js
-- 📱 Exploring mobile app development with React Native
-- 🧠 Diving deeper into TypeScript and advanced patterns
-- 🤖 Building projects with the MERN stack (MongoDB, Express, React, Node)
-- 📊 Contributing to open-source web development tools
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YahyaaAyman&style=flat-square&color=blue" alt="Profile views" />
