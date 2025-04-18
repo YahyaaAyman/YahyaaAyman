@@ -3,10 +3,6 @@
   💻 <b>Frontend-focused Web Developer</b> | 🚀 JavaScript Enthusiast | 📍 Cairo, Egypt 🇪🇬
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=F78C6C&center=true&vCenter=true&multiline=true&width=800&height=140&lines=💻+Building+Responsive+and+Interactive+Web+Experiences;🚀+Turning+Ideas+into+Elegant+Solutions+Since+Day+One;💡+Constantly+Sharpening+My+JavaScript+Skills;🎯+Obsessed+with+Clean+Code+and+User+Experience" />
-</p>
-
 ---
 
 ## 🌟 About Me
